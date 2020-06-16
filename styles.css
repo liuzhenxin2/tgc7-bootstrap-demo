@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/* headliner and logo */
+
+#halal-logo img{
+    display: inline-block;
+    max-height: 70px;
+    width: auto;
+    margin-top: 20px;
+}
+
+#ock-logo {
+    display: inline-block;
+    padding: 20px;
+}
+
+#ock-halal {
+    background-color: #FFB600;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+
+/* end of headliner and logo */
+
+/* navbar */
+
+#navbrand-ock img {
+    max-width: 50px;
+    height: auto;
+}
+
+.navbar {
+    background-color: #FFB600 !important;
+}
+
+#navbar-padding{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+/* puff carousel */
+
+#puff-carousel {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+
+/* jumbotron */
+
+.jumbotron {
+    background-color: #FFB600 !important;
+    
+}
+
+#jumbo-btn-color {
+    background-color: white;
+}
+
+/* curry puff showcase */
+
+#puff-showcase1{
+    display: flex;
+    justify-content: space-around;
+    background-color:  #FFB600 !important;
+    padding: 30px 30px 62px 30px;
+}
+
+#puff-showcase2{
+    display: flex;
+    justify-content: space-around;
+    background-color:  #FFB600 !important;
+    padding: 30px;
+    margin-bottom: 32px;
+}
+
+.card-body{
+  background-color: white;
+}
+
+
+
+/* footer */
+
+#social-icons-words {
+    background-color: #FFB600;
+    display: flex;
+    padding: 30px 30px 30px 60px;
+}
+
+.fa {
+    font-size: 30px;
+}
